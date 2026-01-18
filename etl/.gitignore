@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos
+.env
+.venv
+venv/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Uploads / audios temporales
+uploads/
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# FFmpeg
+ffmpeg/
+etl/ffmpeg/
+*.exe
+
+# SO
+.DS_Store

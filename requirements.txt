@@ -1,0 +1,14 @@
+typer==0.3.2
+colorama==0.4.4
+shellingham==1.4.0
+pytest==6.2.4
+openai-whisper
+pyttsx3==2.90
+pymongo==4.15.3
+numpy==1.24.3
+streamlit==1.51.0
+matplotlib==3.8.0
+python-multipart
+torch
+uvicorn
+fastapi
